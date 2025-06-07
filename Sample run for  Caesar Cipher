@@ -1,0 +1,5 @@
+=== Caesar Cipher Tool ===
+Do you want to (E)ncrypt or (D)ecrypt? E
+Enter your message: Hello World!
+Enter shift value (integer): 3
+Encrypted message: Khoor Zruog!
